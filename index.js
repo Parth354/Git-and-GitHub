@@ -1,0 +1,1 @@
+document.getElementById('center').innerHTML = "<p>Hello from JS File</p>"
